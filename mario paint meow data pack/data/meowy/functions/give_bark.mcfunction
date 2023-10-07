@@ -1,0 +1,2 @@
+clear @a[gamemode=!creative] minecraft:wolf_spawn_egg 1
+give @a[gamemode=!creative] carrot_on_a_stick{display:{Name:'{"text":"Mario Paint Dog","bold":false,"italic":false}'},CustomModelData:2018508,quickshot:1b} 1

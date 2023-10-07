@@ -1,0 +1,12 @@
+{
+    "sources": [
+        {
+            "type": "single",
+            "resource": "minecraft:meowy/bark"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:meowy/meow"
+        }
+    ]
+}

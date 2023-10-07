@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "B M",
+        " # ",
+        "M B"
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:bone"
+        },
+        "M": {
+            "item": "minecraft:mutton"
+        },
+        "#": {
+            "item": "minecraft:note_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:wolf_spawn_egg",
+        "count": 1
+    },
+    "group": "paint_instrument"
+}

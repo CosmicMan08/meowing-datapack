@@ -1,0 +1,12 @@
+{
+	"paint_meow": {
+		"sounds": [
+			"paint_meow"
+		]
+	},
+	"paint_bark": {
+		"sounds": [
+			"paint_bark"
+		]
+	}
+}

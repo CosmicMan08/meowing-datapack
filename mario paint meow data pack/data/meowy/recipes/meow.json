@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "C S",
+        " # ",
+        "S C"
+    ],
+    "key": {
+        "C": {
+            "item": "minecraft:cod"
+        },
+        "S": {
+            "item": "minecraft:salmon"
+        },
+        "#": {
+            "item": "minecraft:note_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:cat_spawn_egg",
+        "count": 1
+    },
+    "group": "paint_instrument"
+}

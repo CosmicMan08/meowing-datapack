@@ -1,0 +1,12 @@
+{
+  "parent": "item/generated",
+  "textures": {
+      "layer0": "item/carrot_on_a_stick"
+  },
+"overrides": 
+[
+  { "predicate": { "custom_model_data": 2018508}, "model": "meowy/bark"},
+  { "predicate": { "custom_model_data": 3163163}, "model": "meowy/meow"}
+]
+
+}
